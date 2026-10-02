@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "game": "FIRE UP GLOBAL",
+    "framework": "PixiJS",
+    "logical_resolution": {
+      "width": 540,
+      "height": 960
+    },
+    "notes": [
+      "assets/01_reference/* are reference only; never use them as runtime sprites.",
+      "*_frame files are visual frames; render dynamic text/data with PixiJS on top.",
+      "Preserve PNG alpha and sprite aspect ratio."
+    ]
+  },
+  "references": {
+    "gameplay": "assets/01_reference/mockup_gameplay.PNG",
+    "home": "assets/01_reference/mockup_home.PNG",
+    "marketMap": "assets/01_reference/mockup_market_map.PNG"
+  },
+  "backgrounds": {
+    "gameplay": "assets/02_backgrounds/bg_gameplay.png",
+    "home": "assets/02_backgrounds/bg_home.png",
+    "marketMap": "assets/02_backgrounds/bg_market_map.png"
+  },
+  "home": {
+    "leaderboardButton": "assets/03_home/btn_leaderboard.png",
+    "marketMapButton": "assets/03_home/btn_market_map.png",
+    "playButton": "assets/03_home/btn_play.png",
+    "settingsButton": "assets/03_home/btn_settings.png",
+    "logo": "assets/03_home/logo_fire_up_global.png"
+  },
+  "gameplay": {
+    "extinguisherButton": "assets/04_gameplay/btn_extinguisher.png",
+    "characterTeoPanicked": "assets/04_gameplay/character_teo_panicked.png",
+    "hudFrame": "assets/04_gameplay/hud_frame.png",
+    "fireIcon": "assets/04_gameplay/icon_fire.png",
+    "lockIcon": "assets/04_gameplay/icon_lock.png",
+    "requestBannerFrame": "assets/04_gameplay/request_banner_frame.png",
+    "rooms": {
+      "bd": "assets/04_gameplay/room_bd.png",
+      "finance": "assets/04_gameplay/room_finance.png",
+      "hr": "assets/04_gameplay/room_hr.png",
+      "marketing": "assets/04_gameplay/room_marketing.png",
+      "product": "assets/04_gameplay/room_product.png",
+      "tech": "assets/04_gameplay/room_tech.png"
+    }
+  },
+  "icons": {
+    "calendar": "assets/05_icons/icon_calendar.png",
+    "clipboardAlert": "assets/05_icons/icon_clipboard_alert.png",
+    "heart": "assets/05_icons/icon_heart.png",
+    "settings": "assets/05_icons/icon_settings.png",
+    "timer": "assets/05_icons/icon_timer.png"
+  },
+  "market": {
+    "banner": "assets/06_market/banner.png",
+    "logo": "assets/06_market/logo_fire_up_global_short.png",
+    "comingSoon": "assets/06_market/market_coming_soon.png",
+    "japan": "assets/06_market/market_japan.png",
+    "korea": "assets/06_market/market_korea.png",
+    "usa": "assets/06_market/market_usa.png",
+    "vietnam": "assets/06_market/market_vietnam.png"
+  }
+}
