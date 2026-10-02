@@ -32,7 +32,7 @@
   "gameplay": {
     "extinguisherButton": "assets/04_gameplay/btn_extinguisher.png",
     "characterTeoPanicked": "assets/04_gameplay/character_teo_panicked.png",
-    "hudFrame": "assets/04_gameplay/hud_frame.png",
+    "hudFrame": "assets/04_gameplay/hud_frame_v2.png",
     "fireIcon": "assets/04_gameplay/icon_fire.png",
     "lockIcon": "assets/04_gameplay/icon_lock.png",
     "requestBannerFrame": "assets/04_gameplay/request_banner_frame.png",
