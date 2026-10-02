@@ -35,7 +35,7 @@
     "hudFrame": "assets/04_gameplay/hud_frame_v2.png",
     "fireIcon": "assets/04_gameplay/icon_fire.png",
     "lockIcon": "assets/04_gameplay/icon_lock.png",
-    "requestBannerFrame": "assets/04_gameplay/request_banner_frame.png",
+    "requestBannerFrame": "assets/04_gameplay/request_banner_frame_v2.png",
     "rooms": {
       "bd": "assets/04_gameplay/room_bd.png",
       "finance": "assets/04_gameplay/room_finance.png",
